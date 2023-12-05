@@ -1,0 +1,31 @@
+A:\wpf\Assignment\Assignment\bin\Debug\Assignment.exe.config
+A:\wpf\Assignment\Assignment\bin\Debug\Assignment.exe
+A:\wpf\Assignment\Assignment\bin\Debug\Assignment.pdb
+A:\wpf\Assignment\Assignment\bin\Debug\EntityFramework.dll
+A:\wpf\Assignment\Assignment\bin\Debug\EntityFramework.SqlServer.dll
+A:\wpf\Assignment\Assignment\bin\Debug\EntityFramework.xml
+A:\wpf\Assignment\Assignment\bin\Debug\EntityFramework.SqlServer.xml
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+A:\wpf\Assignment\Assignment\obj\Debug\Login.g.cs
+A:\wpf\Assignment\Assignment\obj\Debug\MainWindow.g.cs
+A:\wpf\Assignment\Assignment\obj\Debug\Profile.g.cs
+A:\wpf\Assignment\Assignment\obj\Debug\App.g.cs
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment_Content.g.cs
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment_MarkupCompile.cache
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment_MarkupCompile.lref
+A:\wpf\Assignment\Assignment\obj\Debug\Login.baml
+A:\wpf\Assignment\Assignment\obj\Debug\MainWindow.baml
+A:\wpf\Assignment\Assignment\obj\Debug\Profile.baml
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment.g.resources
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment.exe
+A:\wpf\Assignment\Assignment\obj\Debug\Assignment.pdb
+A:\wpf\Assignment\Assignment\obj\Debug\forgitten password.g.cs
+A:\wpf\Assignment\Assignment\obj\Debug\Sign Up.g.cs
+A:\wpf\Assignment\Assignment\obj\Debug\forgitten password.baml
+A:\wpf\Assignment\Assignment\obj\Debug\Sign Up.baml
+A:\wpf\Assignment\Assignment\obj\Debug\App.baml

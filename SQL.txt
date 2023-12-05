@@ -1,0 +1,33 @@
+create table userr(
+userid int primary key not null,
+username varchar(30),
+password varchar(40),
+Age int check(Age BETWEEN 18 and 60),
+Gender varchar(15)check(Gender in('Male','Female')),
+phonenumber varchar(11) unique ,
+city varchar(20)
+);
+
+insert into userr
+values
+(1,'Magdy','password@123',18,'Male',01224447482,'Cairo')
+
+insert into userr
+values
+(2,'Magdy','password@123',18,'Male',01224447488,'Alex')
+select*from userr;
+-------------------------------------------------------------------
+
+
+create table Admin(
+admin_id int primary key not null,
+admin_username varchar(50),
+admin_pass varchar(50)
+);
+
+insert into Admin
+values
+(1,'Admin','password')
+
+select*from Admin;
+
